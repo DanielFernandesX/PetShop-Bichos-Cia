@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" font-family="Arial, sans-serif"><rect width="300" height="200" fill="#eef3f8"/><ellipse cx="150" cy="182" rx="95" ry="8" fill="#000" opacity=".12"/>
+<ellipse cx="150" cy="95" rx="72" ry="55" fill="none" stroke="#d62839" stroke-width="16"/>
+<ellipse cx="150" cy="95" rx="72" ry="55" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="5 6" opacity=".6"/>
+<rect x="136" y="144" width="28" height="18" rx="3" fill="#b8bcc4" stroke="#888"/>
+<rect x="142" y="148" width="16" height="4" fill="#888"/>
+<circle cx="150" cy="168" r="3" fill="#888"/>
+<circle cx="150" cy="176" r="13" fill="#f2c230" stroke="#c99a10" stroke-width="2"/>
+<text x="150" y="181" font-size="12" font-weight="bold" text-anchor="middle" fill="#8a6a08">♥</text>
+</svg>
